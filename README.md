@@ -5,3 +5,4 @@ dan ini adalah pertama kali saya melakukannya
 Iki SALAH
 
 # Latihan-Squash
+Awal Squash 
