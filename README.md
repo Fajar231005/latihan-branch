@@ -6,3 +6,4 @@ Iki SALAH
 
 # Latihan-Squash
 Awal Squash 
+Mungkin terdengar seperti nama minuman wkwkwkw
